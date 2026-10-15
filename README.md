@@ -43,7 +43,7 @@ Raw smart meter data → Silver (cleaned data) → Gold (aggregated business tab
 ![Executive Overview](screenshots/executive_overview.png)
 
 ## Tech Stack
-Databricks, PySpark, Python, SQL, Delta Lake, Medallion Architecture
+Databricks, PySpark, Python, SQL, Medallion Architecture
 
 ## How to Run
 1. Import the notebooks into a Databricks workspace (or clone this repo as a Git folder).
